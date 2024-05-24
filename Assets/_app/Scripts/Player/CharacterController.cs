@@ -15,7 +15,6 @@ public class CharacterController : MonoBehaviour
     // Magnitude of jump force
     public float jumpForce;
     // Sensor to check if player is grounded
-    // public PlayerGroundSensor groundSensor;
     public bool isGrounded;
 
 
